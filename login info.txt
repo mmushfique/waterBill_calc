@@ -1,0 +1,8 @@
+Login information
+
+Username			Password
+
+user				user
+admin				admin
+
+only specified users allowed
